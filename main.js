@@ -9,3 +9,4 @@ menu_icon.addEventListener('click', function() {
 close_menu_icon.addEventListener('click', function () {
   nav_container.classList.toggle('inactive');
 });
+
